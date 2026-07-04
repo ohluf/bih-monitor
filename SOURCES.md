@@ -78,20 +78,4 @@ Search in:
 
 Do not rely only on English-language searches.
 
-# SOURCE EVALUATION
-
-Do not assume all sources are equally reliable.
-
-Distinguish:
-
-- official source
-- political party source
-- state-aligned media
-- government-aligned media
-- opposition-aligned media
-- independent media
-- secondary aggregator
-
-For politically sensitive claims seek independent confirmation whenever possible.
-
 Search beyond this list when necessary to detect an important unexpected event.
