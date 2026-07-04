@@ -40,6 +40,7 @@ Monitor especially:
 
 - elections
 - election candidates
+- parties
 - candidate withdrawals
 - electoral agreements
 - coalition changes
@@ -128,13 +129,6 @@ Do not alert for:
 - predictions presented as news
 
 # VERIFICATION
-
-For significant claims prefer:
-
-1. official primary sources
-2. two independent credible sources
-
-One official primary source may be sufficient for an official decision when the source itself is authoritative.
 
 Always distinguish:
 
